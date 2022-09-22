@@ -20,7 +20,7 @@ Contents
 
    usage
    api
-   api2
+   zzz
 
 Lumache has its documentation hosted on Read the Docs.
 
