@@ -1,14 +1,6 @@
 TERM
 ====
 
-<snippet>
-  <content><![CDATA[
-:xref:`${1:this}`
-
-]]></content>
-  <tabTrigger>xref</tabTrigger> 
-</snippet>
-
 .. list-table:: Title
    :widths: 25 50
    :header-rows: 1
